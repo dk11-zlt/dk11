@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f77b66f4-3972-431b-865c-5249c98cd0e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W5nv8OGaL3GABAYWLNrAdoaehA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/untitled8" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.mqtt_function">
+    <configuration name="mqtt_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="auction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module/mqtt_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="操作redis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="auction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script/操作redis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="auction" type="Python.DjangoServer" factoryName="Django server">
+      <module name="auction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="auction.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mqtt_function" />
+        <item itemvalue="Python.操作redis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f77b66f4-3972-431b-865c-5249c98cd0e7" name="Default Changelist" comment="" />
+      <created>1578448550670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578448550670</updated>
+      <workItem from="1578448553814" duration="21041000" />
+      <workItem from="1630377445364" duration="1597000" />
+      <workItem from="1630387683980" duration="10814000" />
+      <workItem from="1630456434130" duration="1773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="842" y="190" key="FileChooserDialogImpl" timestamp="1630379054131">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="842" y="190" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1630379054131" />
+    <state width="1236" height="293" key="GridCell.Tab.0.bottom" timestamp="1630402538051">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1630402538051" />
+    <state width="1236" height="293" key="GridCell.Tab.0.center" timestamp="1630402538051">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1630402538051" />
+    <state width="1236" height="293" key="GridCell.Tab.0.left" timestamp="1630402538051">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1630402538051" />
+    <state width="1236" height="293" key="GridCell.Tab.0.right" timestamp="1630402538051">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="293" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1630402538051" />
+    <state width="1236" height="220" key="GridCell.Tab.1.bottom" timestamp="1630401816588">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1630401816588" />
+    <state width="1236" height="220" key="GridCell.Tab.1.center" timestamp="1630401816588">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="220" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1630401816588" />
+    <state width="1236" height="220" key="GridCell.Tab.1.left" timestamp="1630401816588">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="220" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1630401816588" />
+    <state width="1236" height="220" key="GridCell.Tab.1.right" timestamp="1630401816588">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1630401816588" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1630459384809">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1630459384809" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auction$mqtt_function.coverage" NAME="mqtt_function Coverage Results" MODIFIED="1630401820176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
+    <SUITE FILE_PATH="coverage/auction$redis.coverage" NAME="操作redis Coverage Results" MODIFIED="1630378650177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+  </component>
+</project>
